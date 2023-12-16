@@ -1,8 +1,9 @@
 body{
-    font-family: "inter";
+    font-family: inter;
 }
 
 #top {
+
     border: 2px solid black;
     width: 1643px;
     height: 648.57px;
